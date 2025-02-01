@@ -66,14 +66,6 @@ Humidity: 88%
 
 ---
 
-## Remarques
-
-- Le dépôt est **privé** et accessible uniquement par moi et mon professeur.
-- Les données météorologiques sont récupérées en temps réel via l'API OpenWeatherMap.
-- Le code utilise les unités métriques et la langue française.
-
----
-
 ## Auteur
 
 - **Mohamed Habib Frigui**  
