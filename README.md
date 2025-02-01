@@ -1,4 +1,4 @@
-# Rapport TP1 : Introduction aux APIs RESTful
+# Compte Rendu TP1 : Introduction aux APIs RESTful
 
 Ce dépôt contient le code et le compte rendu pour le **Travail Pratique 1 (TP1)** du cours **SOA et Microservices**.
 
